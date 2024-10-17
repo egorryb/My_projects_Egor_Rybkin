@@ -1,4 +1,0 @@
-function [theta1, theta2] = ozk(x1,y1,L1,L2)
-
-theta1 = atan2d(y1/x1);
-theta2 = atan2d(y2/x2)-theta1;
