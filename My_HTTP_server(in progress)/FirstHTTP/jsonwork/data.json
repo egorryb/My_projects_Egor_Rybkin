@@ -1,0 +1,9 @@
+{
+    "image": "base64_encoded_image_data",
+    "filter": {
+      "mode": "blur",       
+      "intensity": 0.7      
+    },
+    "output_format": "jpeg", 
+    "quality": 85           
+  }
